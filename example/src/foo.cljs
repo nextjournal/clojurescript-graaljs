@@ -1,0 +1,2 @@
+(ns foo
+  (:require [bar]))
