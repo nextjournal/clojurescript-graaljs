@@ -1,3 +1,3 @@
 {:paths ["src"]
- :deps {org.clojure/clojurescript {:git/url "https://github.com/nextjournal/clojurescript"
-                                   :sha     "225272519bf82a4e30611cb47e8fd0ca26e96fda"}}}
+ :deps {org.clojure/clojurescript {:git/url "https://github.com/clojure/clojurescript"
+                                   :sha     "c00dee83649e1ca90a452cfee9dac1c013604bb2"}}}
