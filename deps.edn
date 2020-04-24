@@ -1,3 +1,2 @@
 {:paths ["src"]
- :deps {org.clojure/clojurescript {:git/url "https://github.com/clojure/clojurescript"
-                                   :sha     "c00dee83649e1ca90a452cfee9dac1c013604bb2"}}}
+ :deps {org.clojure/clojurescript {:mvn/version "1.10.741"}}}
